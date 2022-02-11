@@ -4,13 +4,13 @@ Formulário de cadastro básico desenvolvido em ReacJS utilizando [Material UI](
 
 # Uso
 
-    - Clonar repositório;
+   - Clonar repositório;
 
-    - Ter o [NodeJS](https://nodejs.org/en/) instalado;
+   - Ter o [NodeJS](https://nodejs.org/en/) instalado;
 
-    - Instalar o Material UI: npm install @mui/material @emotion/react @emotion/styled
+   - Instalar o Material UI: npm install @mui/material @emotion/react @emotion/styled
 
-    - Run: npm start
+   - Run: npm start
 
 # Visão Geral:
 
